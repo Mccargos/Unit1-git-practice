@@ -1,0 +1,103 @@
+### Step 2A 
+/Users/saramccargo
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd Unit1-git-practice/
+
+### Step 2D
+/Users/saramccargo/Desktop/Unit1-git-practice
+
+### Step 2E
+Ls
+
+### Step 2F
+
+my-steps.txt
+saramccargo@Saras-MacBook-Air Unit1-git-practice % 
+
+### Step 2G
+~
+
+### Step 2H
+
+saramccargo@Saras-MacBook-Air ~ % 
+### Step 2I
+
+Applications		Hwk4			Projects
+Creative Cloud Files	Library			Public
+Desktop			Movies			[Mccargo]-Part one
+Documents		Music			newreactjs.jsx
+Downloads		Pictures		nohup.out
+### Step 2J
+Pwd
+
+### Step 2K
+
+ cd Desktop/
+cd Unit1-git-practice/
+
+### Step 3A
+Mkdir 
+
+### Step 3B
+Mv
+
+### Step 3C
+
+Mkdir
+### Step 3D
+
+ mv meats proteins
+### Step 3E
+
+Cd Desktop/Unit1-git-practice/
+Cd veggie
+Mkdir carrot.txt
+Mkdir pea.text
+### Step 3F
+Cd ..
+Cd sweets
+Mkdir cookie.txt
+
+### Step 3G
+Mv cookie.txt donut.txt
+
+### Step 3H
+Cd ..
+Mkdir thing.txt
+
+### Step 3I
+
+Cp -r thing.txt tofu.txt
+### Step 3J
+
+Mv tofu.txt proteins
+### Step 3K
+Cp-r
+Mv
+
+### Step 3L
+Rm -r
+
+### Step 3M
+Cp -r
+
+### Step 3N
+Mkdir 
+Rm 
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
