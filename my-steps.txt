@@ -115,7 +115,34 @@ To https://github.com/Mccargos/Unit1-git-practice.git
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 ### Step 6
+saramccargo@Saras-Air Unit1-git-practice % git status
+On branch main
+Your branch is up to date with 'origin/main'.
 
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   .DS_Store
+	modified:   my-steps.txt
+	modified:   plants/.DS_Store
+	modified:   proteins/.DS_Store
+	modified:   sweets/.DS_Store
 
+no changes added to commit (use "git add" and/or "git commit -a")
+saramccargo@Saras-Air Unit1-git-practice % git add .
+saramccargo@Saras-Air Unit1-git-practice % git comm
+
+ 5 files changed, 20 insertions(+), 2 deletions(-)
+saramccargo@Saras-Air Unit1-git-practice % git push
+Enumerating objects: 19, done.
+Counting objects: 100% (19/19), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (10/10), 1.44 KiB | 1.44 MiB/s, done.
+Total 10 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), completed with 5 local objects.
+To https://github.com/Mccargos/Unit1-git-practice.git
+   9f3d16a..d4815e3  main -> main
+saramccargo@Saras-Air Unit1-git-practice % 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
